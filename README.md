@@ -1,4 +1,4 @@
-# <Kisállatnaptár>: <Etetés számontartása>
+# <KisállatNaptár>: <Etetés számontartása>
 
 Hallgató: <Horváth Borbála>  ·  Platform: <reszponzív web>
 Figma tervfájl: <link, "anyone with the link can view">
