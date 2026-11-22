@@ -1,4 +1,4 @@
-# <Az app neve>: <az ötlet egy mondatban>
+# <Kisállatnaptár>: <Etetés >
 
 Hallgató: <Horváth Borbála>  ·  Platform: <reszponzív web>
 Figma tervfájl: <link, "anyone with the link can view">
@@ -6,7 +6,7 @@ FigJam kutatási tábla: <link, "anyone with the link can view">
 Prototípus: <link, a 6. lépésből>
 
 ## Az ötlet egy mondatban
-<App> segít <kiknek>, hogy <mit tegyenek>, amikor <helyzet>.
+<A Kisállatnaptár> segít <több háziállattal rendelkező családoknak>, hogy <számontartsák melyik állat mikor, mennyit evett, ki etette>, amikor <helyzet>.
 
 ## Állapot
 - [ ] 1. lépés · Ötlet és referenciák (határidő: 2. alkalom)
