@@ -1,4 +1,4 @@
-# <Kisállatnaptár>: <az ötlet egy mondatban>
+# <Az app neve>: <az ötlet egy mondatban>
 
 Hallgató: <Horváth Borbála>  ·  Platform: <reszponzív web>
 Figma tervfájl: <link, "anyone with the link can view">
