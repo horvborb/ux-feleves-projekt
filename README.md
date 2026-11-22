@@ -6,7 +6,7 @@ FigJam kutatási tábla: <link, "anyone with the link can view">
 Prototípus: <link, a 6. lépésből>
 
 ## Az ötlet egy mondatban
-<A KisállatNaptár> segít <többállatos családoknak>, hogy <számontartsák az etetést, gyógyszerezést>.
+<A KisállatNaptár> segít <többállatos családoknak>, hogy <számontartsák az etetést, gyógyszerezést, ki, mikor, mit kapott>.
 
 ## Állapot
 - [ ] 1. lépés · Ötlet és referenciák (határidő: 2. alkalom)
