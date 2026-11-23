@@ -3,14 +3,11 @@ A KisállatNaptár segít abban, hogy a több állatos családokban számontarts
 
 ## Kinek szól
 - Felhasználói csoport: nagycsaládok, ahol változó ki etet, vagy több állatos gazdák, akiknél változó melyik állat mikor eszik
-- Hol találok közülük ötöt:
-- Eszköz és helyzet:
+- Hol találok közülük ötöt: kollégám, családom, közeli ismerősök
+- Eszköz és helyzet: telefon, amikor későn hazaesünk és nem tudjuk aznap kaptak-e már enni az állatok
 
 ## A probléma (a hipotézisem)
-Úgy gondolom, hogy az ingázó hallgatók helykereséssel töltik el a lyukasórájukat,
-mert a termek az órarend szerint szabadnak látszanak, de gyakran foglaltak.
-Akkor van igazam, ha az interjúkon arról mesélnek, hogy odamentek egy teremhez,
-és foglaltan találták, vagy feladták, és leültek a folyosón.
+Sokszor előfordul, hogy napi többször kapnak enni az állatok, vagy netán elfelejtődik és egy-egy nap kimarad, mivel nem mindig tudjuk számonkövetni 7 állatból melyik evett és melyik nem. Emellett a gabonasiklónk nem naponta, inkább 7-9 naponta eszik, amit annál is nehezebb nyomonkövetni. Több egzotikus állattal rendelkező gazdáknál ezt feltehetően még nehezebb nyomonkövetni.
 
 ## Out of scope
 1. csoportos teremfoglalás   2. campustérkép mindenhez   3. chat
