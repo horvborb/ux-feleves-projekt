@@ -7,7 +7,7 @@ A KisállatNaptár segít abban, hogy a több állatos családokban számontarts
 - Eszköz és helyzet: telefon, amikor későn hazaesünk és nem tudjuk aznap kaptak-e már enni az állatok
 
 ## A probléma (a hipotézisem)
-Sokszor előfordul, hogy napi többször kapnak enni az állatok, vagy netán elfelejtődik és egy-egy nap kimarad, mivel nem mindig tudjuk számonkövetni 7 állatból melyik evett és melyik nem. Emellett a gabonasiklónk nem naponta, inkább 7-9 naponta eszik, amit annál is nehezebb nyomonkövetni. Több egzotikus állattal rendelkező gazdáknál ezt feltehetően még nehezebb nyomonkövetni.
+Sokszor előfordul, hogy napi többször kapnak enni az állatok, vagy netán elfelejtődik és egy-egy nap kimarad, mivel nem mindig tudjuk számonkövetni 7 állatból melyik evett és melyik nem. A gabonasiklónk pedig nem naponta, inkább 7-9 naponta eszik. Több egzotikus állattal rendelkező gazdáknál ezt feltehetően még nehezebb nyomonkövetni, főleg ha van mellettük több hétköznapibb kisállat is.
 
 ## Out of scope
-1. csoportos teremfoglalás   2. campustérkép mindenhez   3. chat
+1. emlékeztetők
