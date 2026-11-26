@@ -5,7 +5,7 @@
 ### 3. Google Families
 - amit megtartanék: google családok felhasználása
 
-### 4 versenytárs:
+## 4 versenytárs:
 # Pet Care Tracker - Dog Cat App
 - ami jó: több állat megadása, dokumentumok, emlékeztetők
 - amit hiányolok, nem jó: etetés lekövetésre nincs lehetőség, minden egyes dolog manuális dokumentálása, nincsenek ismétlődő események
