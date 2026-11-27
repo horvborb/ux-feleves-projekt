@@ -1,6 +1,7 @@
 # KisállatNaptár: Etetés számontartása
 
-- Hallgató: Horváth Borbála  ·  Platform: Android
+- Hallgató: Horváth Borbála
+- Platform: Android
 - Figma tervfájl:
 - FigJam kutatási tábla:
 - Prototípus:
