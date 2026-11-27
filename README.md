@@ -2,7 +2,7 @@
 
 - Hallgató: Horváth Borbála
 - Platform: Android
-- Figma tervfájl:
+- Figma tervfájl: https://www.figma.com/board/QUg9kAhmuqXm5ESqMX3QCI/Kis%C3%A1llatNapt%C3%A1r?node-id=0-1&t=gifMNtbYe9lhzLlI-1
 - FigJam kutatási tábla:
 - Prototípus:
 
