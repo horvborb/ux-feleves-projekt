@@ -1,9 +1,9 @@
 # KisállatNaptár: Etetés számontartása
 
-Hallgató: Horváth Borbála  ·  Platform: reszponzív web
-Figma tervfájl: <link, "anyone with the link can view">
-FigJam kutatási tábla: <link, "anyone with the link can view">
-Prototípus: <link, a 6. lépésből>
+- Hallgató: Horváth Borbála  ·  Platform: reszponzív web
+- Figma tervfájl: <link, "anyone with the link can view">
+- FigJam kutatási tábla: <link, "anyone with the link can view">
+- Prototípus: <link, a 6. lépésből>
 
 ## Az ötlet egy mondatban
 A KisállatNaptár segít többállatos családoknak, hogy számontartsák az etetést, gyógyszerezést, melyik állat, mikor, mit kapott és kitől.
@@ -17,4 +17,4 @@ A KisállatNaptár segít többállatos családoknak, hogy számontartsák az et
 - [ ] 6. lépés · Prototípus, teszt, esettanulmány (határidő: záró bemutató)
 
 ## AI-használat (a teljes projekt)
-<eszköz · mire · mit változtattam rajta>, vagy: nem használtam
+Nem használtam.
